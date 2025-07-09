@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": "daed5d9d-e16f-4445-b59b-b31ad006a5a7",
+      "title": "Llamada con potenciales clientes ",
+      "description": "Contactar telefónicamente a prospectos para explorar su interés y evaluar posibles oportunidades de negocio.",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "f5bb270a-c193-44f7-9951-5f421be7e22b",
+      "title": "Revisar documentacion de api a implementar",
+      "description": "Verificar la documentación de la API para asegurar su idoneidad y facilitar una implementación exitosa.",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "id": "a22789dc-0b14-4b03-817b-6af8e33843d8",
+      "title": "Planificar etapa de produccion",
+      "description": "Definir los pasos, recursos y plazos necesarios para la ejecución de la etapa de producción.",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "id": "3d71d28a-5d82-47d6-85fb-c468993188ca",
+      "title": "Detallar informe de errores",
+      "description": "Especificar y ampliar la información de cada error en el informe para facilitar su análisis y resolución.",
+      "status": "pending",
+      "priority": "high"
+    }
+  ]
+}
